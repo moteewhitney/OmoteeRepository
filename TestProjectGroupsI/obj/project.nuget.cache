@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3kKAQjucQqUaLL2xQGECf7q5eRKYbDmC4+YPY1hvpisUhDBzwRxvd44p8BDSd2YhAFvggHix8yZQ7BRpgq1TaA==",
+  "dgSpecHash": "qWhP7lXyaPtRJULy26QlcG7L235mGAd4qpfXL/piqLe6+0m6fE/q/R7p/SbY3JFsA0AMa41yHp1rixTv6zWzPg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\DELL\\source\\repos\\TestProjectGroupsI\\TestProjectGroupsI\\TestProjectGroupsI.csproj",
+  "projectFilePath": "C:\\Users\\DELL\\Documents\\GitHub\\OmoteeRepository\\TestProjectGroupsI\\TestProjectGroupsI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DELL\\.nuget\\packages\\bodi\\1.5.0\\bodi.1.5.0.nupkg.sha512",
     "C:\\Users\\DELL\\.nuget\\packages\\coverlet.collector\\3.0.2\\coverlet.collector.3.0.2.nupkg.sha512",

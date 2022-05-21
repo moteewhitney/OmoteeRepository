@@ -6817,11 +6817,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\DELL\\source\\repos\\TestProjectGroupsI\\TestProjectGroupsI\\TestProjectGroupsI.csproj",
+      "projectUniqueName": "C:\\Users\\DELL\\Documents\\GitHub\\OmoteeRepository\\TestProjectGroupsI\\TestProjectGroupsI.csproj",
       "projectName": "TestProjectGroupsI",
-      "projectPath": "C:\\Users\\DELL\\source\\repos\\TestProjectGroupsI\\TestProjectGroupsI\\TestProjectGroupsI.csproj",
+      "projectPath": "C:\\Users\\DELL\\Documents\\GitHub\\OmoteeRepository\\TestProjectGroupsI\\TestProjectGroupsI.csproj",
       "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\DELL\\source\\repos\\TestProjectGroupsI\\TestProjectGroupsI\\obj\\",
+      "outputPath": "C:\\Users\\DELL\\Documents\\GitHub\\OmoteeRepository\\TestProjectGroupsI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
